@@ -1,7 +1,7 @@
 ---
 title: "Dawes ultra"
 description: "Our Tandem Touring/Pub bike"
-pubDate: "May 17 2026"
+pubDate: "May 18 2026"
 heroImage: "/Dawesultra.jpg"
 ---
 
