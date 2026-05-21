@@ -5,6 +5,6 @@ pubDate: "May 16 2026"
 heroImage: "/Dawesultra.jpg"
 ---
 
-![wheel](./images/wheel.jpg)
+![wheel](../images/wheel.jpg)
 
 test
