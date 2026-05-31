@@ -2,7 +2,7 @@
 title: "Avanti Blizzard"
 description: "A rugged mountain bike built for winter trails and all-season adventure."
 pubDate: "May 21 2026"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/images/Avanti Blizzard.jpg"
 ---
 !!!AI DESCRIPTION ATM!!!
 

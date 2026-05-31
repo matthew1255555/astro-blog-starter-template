@@ -72,16 +72,18 @@ import { SITE_TITLE } from '../consts';
 		justify-content: space-between;
 	}
 	nav a {
-		padding: 1em 0.5em;
-		color: var(--black);
-		border-bottom: 4px solid transparent;
+		padding: 1em 0.75em;
+		color: var(--accent);
+		border-radius: 999px;
 		text-decoration: none;
+		transition: color 0.2s ease;
 	}
+	nav a:hover,
 	nav a.active {
+		color: #2f8f3e;
+		background: transparent;
 		text-decoration: none;
-		border-bottom-color: var(--accent);
-	}
-	.social-links,
+	}	.social-links,
 	.social-links a {
 		display: flex;
 	}
