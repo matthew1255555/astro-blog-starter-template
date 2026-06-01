@@ -17,3 +17,5 @@ The cockpit is another strong point. While the stock setup is normally wide and 
 Even with the conversion, the bike still encourages a balanced posture that is easy on the shoulders and back during long rides. The shift and brake feel is crisp and reliable, which helps keep the bike composed in muddy or snowy conditions.
 
 Overall, the Avanti Blizzard feels like a dependable all-rounder for riders who want one bike they can trust through winter and beyond. It’s not just a seasonal machine; it’s a capable platform for exploration, whether that means a muddy forest loop, a gravel access road, or an extended weekend of trail riding.
+
+![Avanti blizzard bike packing](/images/avanti-blizard-with-tent.jpg)
