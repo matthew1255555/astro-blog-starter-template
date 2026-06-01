@@ -2,7 +2,7 @@
 title: "Dawes Double Edge Tandem"
 description: "Our Tandem Touring/Pub bike"
 pubDate: "May 17 2026"
-heroImage: "/tandem.jpg"
+heroImage: "/images/bikes/tandem.jpg"
 ---
 !!!Warning- This is AI generated content till i get around to updating it!!!
 

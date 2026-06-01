@@ -2,7 +2,7 @@
 title: "Roam SS E-Bike"
 description: "A rugged mountain bike built for winter trails and all-season adventure."
 pubDate: "Jun 1 2026"
-heroImage: "/images/roam-e.jpg"
+heroImage: "/images/bikes/roam-e.jpg"
 ---
 Not much information i can find about this bike. just that it was a nz based company that sold them
 

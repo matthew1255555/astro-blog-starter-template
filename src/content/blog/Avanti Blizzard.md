@@ -2,7 +2,7 @@
 title: "Avanti Blizzard"
 description: "A rugged mountain bike built for winter trails and all-season adventure."
 pubDate: "May 21 2026"
-heroImage: "/images/Avanti Blizzard.jpg"
+heroImage: "/images/bikes/Avanti Blizzard.jpg"
 ---
 !!!AI DESCRIPTION ATM!!!
 
@@ -18,4 +18,4 @@ Even with the conversion, the bike still encourages a balanced posture that is e
 
 Overall, the Avanti Blizzard feels like a dependable all-rounder for riders who want one bike they can trust through winter and beyond. It’s not just a seasonal machine; it’s a capable platform for exploration, whether that means a muddy forest loop, a gravel access road, or an extended weekend of trail riding.
 
-![Avanti blizzard bike packing](/images/avanti-blizard-with-tent.jpg)
+![Avanti blizzard bike packing](/images/bikes/avanti-blizard-with-tent.jpg)

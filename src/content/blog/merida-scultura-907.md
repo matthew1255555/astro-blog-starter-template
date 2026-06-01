@@ -2,7 +2,7 @@
 title: "2010 Merida Scultura 907 EVO"
 description: "My 14yo Selfs Dream bike"
 pubDate: "Jun 1 2026"
-heroImage: "/images/Merida scultrua 907 evo.jpg"
+heroImage: "/images/bikes/Merida scultrua 907 evo.jpg"
 ---
 This Merida was my third race bike, following a scultura 904 with 105.
 it was a fantastic bike, taking me on many race over about 5 years, eventually surcoming to a frame crack
